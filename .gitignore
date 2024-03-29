@@ -1,3 +1,9 @@
+*.pt
+inputs_textual_inversion/
+Mikhail_Dzigen_Menshikov-concept_3000steps/
+Mikhail_Dzigen_Menshikov-concept_6000steps/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
